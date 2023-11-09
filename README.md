@@ -38,8 +38,8 @@ Stop
 
 ## Program:
 ```
-Name : Vidya Neela M
-Reg no : 212221230120
+Name : Mothesh M
+Reg no : 212221230066
 ```
 ```
 using System.Collections;
